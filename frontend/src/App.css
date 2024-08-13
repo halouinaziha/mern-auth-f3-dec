@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.contactList {
+  display: flex;
+  margin: 2rem 0;
+  gap: 2rem;
+  justify-content: center;
+}
